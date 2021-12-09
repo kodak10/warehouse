@@ -13,9 +13,9 @@
 	<link rel="icon" type="image/png" href="images/favicon.png">
 	<!-- Web Font -->
 	<link href="https://fonts.googleapis.com/css?family=Poppins:200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
-	
+
 	<!-- StyleSheet -->
-	
+
 	<!-- Bootstrap -->
 	<link rel="stylesheet" href="visitor/css/bootstrap.css">
 	<!-- Magnific Popup -->
@@ -36,7 +36,7 @@
     <link rel="stylesheet" href="visitor/css/owl-carousel.css">
 	<!-- Slicknav -->
     <link rel="stylesheet" href="visitor/css/slicknav.min.css">
-	
+
 	<!-- Eshop StyleSheet -->
 	<link rel="stylesheet" href="visitor/css/reset.css">
 	<link rel="stylesheet" href="visitor/css/style.css">
@@ -57,10 +57,10 @@
 	<!--<link rel="stylesheet" href="visitor/css/color/color12.css">-->
 
 	<link rel="stylesheet" href="#" id="colors">
-	
+
 </head>
 <body class="js">
-	
+
 	<!-- Preloader -->
 	<div class="preloader">
 		<div class="preloader-inner">
@@ -71,7 +71,7 @@
 		</div>
 	</div>
 	<!-- End Preloader -->
-	
+
 	<!-- Eshop Color Plate -->
 	<div class="color-plate ">
 		<a class="color-plate-icon"><i class="ti-paint-bucket"></i></a>
@@ -91,7 +91,7 @@
 		<span class="color12"></span>
 	</div>
 	<!-- /End Color Plate -->
-	
+
 	<!-- Header -->
 	<header class="header shop">
 		<!-- Topbar -->
@@ -287,8 +287,8 @@
 							<div class="menu-area">
 								<!-- Main Menu -->
 								<nav class="navbar navbar-expand-lg">
-									<div class="navbar-collapse">	
-										<div class="nav-inner">	
+									<div class="navbar-collapse">
+										<div class="nav-inner">
 											<ul class="nav main-menu menu navbar-nav">
 												<li class="active"><a href="#">Home<i class="ti-angle-down"></i></a>
 													<ul class="dropdown">
@@ -298,7 +298,7 @@
 														<li><a href="index4.html">Home Ecommerce V4</a></li>
 													</ul>
 												</li>
-												<li><a href="#">Product</a></li>												
+												<li><a href="#">Product</a></li>
 												<li><a href="#">Service</a></li>
 												<li><a href="#">Shop<i class="ti-angle-down"></i><span class="new">New</span></a>
 													<ul class="dropdown">
@@ -317,7 +317,7 @@
 														<li><a href="mail-success.html">Mail Success</a></li>
 														<li><a href="404.html">404</a></li>
 													</ul>
-												</li>									
+												</li>
 												<li><a href="#">Blog<i class="ti-angle-down"></i></a>
 													<ul class="dropdown">
 														<li><a href="blog-grid.html">Blog Grid</a></li>
@@ -331,7 +331,7 @@
 										</div>
 									</div>
 								</nav>
-								<!--/ End Main Menu -->	
+								<!--/ End Main Menu -->
 							</div>
 						</div>
 					</div>
@@ -345,36 +345,36 @@
     @yield('content')
 
     <!-- Jquery -->
-    <script src="js/jquery.min.js"></script>
-    <script src="js/jquery-migrate-3.0.0.js"></script>
-	<script src="js/jquery-ui.min.js"></script>
+    <script src="visitor/js/jquery.min.js"></script>
+    <script src="visitor/js/jquery-migrate-3.0.0.js"></script>
+	<script src="visitor/js/jquery-ui.min.js"></script>
 	<!-- Popper JS -->
-	<script src="js/popper.min.js"></script>
+	<script src="visitor/js/popper.min.js"></script>
 	<!-- Bootstrap JS -->
-	<script src="js/bootstrap.min.js"></script>
+	<script src="visitor/js/bootstrap.min.js"></script>
 	<!-- Color JS -->
-	<script src="js/colors.js"></script>
+	<script src="visitor/js/colors.js"></script>
 	<!-- Slicknav JS -->
-	<script src="js/slicknav.min.js"></script>
+	<script src="visitor/js/slicknav.min.js"></script>
 	<!-- Owl Carousel JS -->
-	<script src="js/owl-carousel.js"></script>
+	<script src="visitor/js/owl-carousel.js"></script>
 	<!-- Magnific Popup JS -->
-	<script src="js/magnific-popup.js"></script>
+	<script src="visitor/js/magnific-popup.js"></script>
 	<!-- Waypoints JS -->
-	<script src="js/waypoints.min.js"></script>
+	<script src="visitor/js/waypoints.min.js"></script>
 	<!-- Countdown JS -->
-	<script src="js/finalcountdown.min.js"></script>
+	<script src="visitor/js/finalcountdown.min.js"></script>
 	<!-- Nice Select JS -->
-	<script src="js/nicesellect.js"></script>
+	<script src="visitor/js/nicesellect.js"></script>
 	<!-- Flex Slider JS -->
-	<script src="js/flex-slider.js"></script>
+	<script src="visitor/js/flex-slider.js"></script>
 	<!-- ScrollUp JS -->
-	<script src="js/scrollup.js"></script>
+	<script src="visitor/js/scrollup.js"></script>
 	<!-- Onepage Nav JS -->
-	<script src="js/onepage-nav.min.js"></script>
+	<script src="visitor/js/onepage-nav.min.js"></script>
 	<!-- Easing JS -->
-	<script src="js/easing.js"></script>
+	<script src="visitor/js/easing.js"></script>
 	<!-- Active JS -->
-	<script src="js/active.js"></script>
+	<script src="visitor/js/active.js"></script>
 </body>
 </html>
